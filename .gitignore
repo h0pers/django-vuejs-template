@@ -9,10 +9,10 @@ media
 # Backup files #
 *.bak
 
-# Migratins
+# Migrations
 
-src/apps/**/migrations/*
-!src/apps/**/migrations/__init__.py
+backend/**/migrations/*
+!backend/**/migrations/__init__.py
 
 # If you are using PyCharm #
 # User-specific stuff
